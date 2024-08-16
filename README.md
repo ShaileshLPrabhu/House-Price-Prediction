@@ -8,10 +8,10 @@ step 2: Find the project file (houseprice_pred.ipynb) and open it in vscode or a
 
 step 3:open terminal in your ide Install the necessary python libraries (pandas,numpy,matplotlib,seaborn,scikit-learn)
 
-pip install pandas
-pip install numpy
-pip install matplotlib
-pip install seaborn
-pip install scikit-learn
+pip install pandas<br />
+pip install numpy<br />
+pip install matplotlib<br />
+pip install seaborn<br />
+pip install sklearn
 
 step 4: run the project.
